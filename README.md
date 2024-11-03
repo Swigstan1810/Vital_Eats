@@ -11,7 +11,7 @@
   1. Python 3.8+: Ensure Python is installed on your system.
   2. Package Manager: pip to manage Python packages.
 
-<<<<<<< HEAD
+
  
 ### 1. Clone this repository to your local machine:
 
