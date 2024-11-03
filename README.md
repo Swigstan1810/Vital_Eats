@@ -11,33 +11,39 @@
   1. Python 3.8+: Ensure Python is installed on your system.
   2. Package Manager: pip to manage Python packages.
 
- #  Repository Workflow
-  1. Clone this repository to your local machine:
-    ``bash
-      git clone <repository-link>
-      cd Calorie-Count
-    ``
-  2. Install Dependencies 
-   The dependencies required for this project are listed in requirements.txt. Run the following command to install them: 
-    ``bash
-      pip install -r requirements.txt
-    ``
-  3. Requirements
-   Your Setup requirements should contain:
-   ``bash
-    wxPython==4.1.1 or greater
-    pandas==1.5.0 or greater
-    numpy==1.23.4 or greater
-    pytest==7.1.2 or greater
-    pytest-cov==3.0.0 or greater
-   ``
-    **This includes:**; 
+ 
+### 1. Clone this repository to your local machine:
 
-    - wxPython: For building the desktop GUI interface.
-    - pandas: To manage and analyze tabular data related to food nutrition.
-    - numpy: Provides support for numerical operations, essential for data manipulation.
-    - pytest: For running tests on the application.
-    - pytest-cov: To generate test coverage reports.
+```bash
+git clone <repository-link>
+cd Calorie-Count
+```
+
+### 2. Install Dependencies
+The dependencies required for this project are listed in `requirements.txt`. Run the following command to install them:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Requirements
+Your setup requirements should include:
+
+```bash
+wxPython==4.1.1 or greater
+pandas==1.5.0 or greater
+numpy==1.23.4 or greater
+pytest==7.1.2 or greater
+pytest-cov==3.0.0 or greater
+```
+
+#### This includes:
+- **wxPython**: For building the desktop GUI interface.
+- **pandas**: To manage and analyze tabular data related to food nutrition.
+- **numpy**: Provides support for numerical operations, essential for data manipulation.
+- **pytest**: For running tests on the application.
+- **pytest-cov**: To generate test coverage reports.
+
 
 
 ## Usage:
