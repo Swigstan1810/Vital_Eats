@@ -65,8 +65,7 @@ pytest-cov==3.0.0 or greater
     pytest==7.1.2 or greater
     pytest-cov==3.0.0 or greater
    ```
-    **This includes:**; 
->>>>>>> 48705b15757502004dd2da3b822e4a4705ffcb26
+
 
 
 
