@@ -13,18 +13,18 @@
 
  #  Repository Workflow
   1. Clone this repository to your local machine:
-    ``bash
+    ```bash
       git clone <repository-link>
       cd Calorie-Count
     ``
   2. Install Dependencies 
    The dependencies required for this project are listed in requirements.txt. Run the following command to install them: 
-    ``bash
+    ```bash
       pip install -r requirements.txt
     ``
   3. Requirements
    Your Setup requirements should contain:
-   ``bash
+   ```bash
     wxPython==4.1.1 or greater
     pandas==1.5.0 or greater
     numpy==1.23.4 or greater
