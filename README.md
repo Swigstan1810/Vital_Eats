@@ -16,12 +16,12 @@
     ```bash
       git clone <repository-link>
       cd Calorie-Count
-    ``
+    ```
   2. Install Dependencies 
    The dependencies required for this project are listed in requirements.txt. Run the following command to install them: 
     ```bash
       pip install -r requirements.txt
-    ``
+    ```
   3. Requirements
    Your Setup requirements should contain:
    ```bash
@@ -30,7 +30,7 @@
     numpy==1.23.4 or greater
     pytest==7.1.2 or greater
     pytest-cov==3.0.0 or greater
-   ``
+   ```
     **This includes:**; 
 
     - wxPython: For building the desktop GUI interface.
